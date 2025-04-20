@@ -1,5 +1,8 @@
 <style>
     body {
+
+      background-image: url(https://i.gifer.com/origin/e6/e64a872e65441976732595040148d268_w200.webp);
+
       font-family: Arial, sans-serif;
       margin: 0;
       background-color: #f4f4f4;
@@ -46,6 +49,5 @@
       position: relative;
       bottom: 0;
       width: 327px;
-      background-image: url(https://i.gifer.com/origin/e6/e64a872e65441976732595040148d268_w200.webp);
 
     }
